@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Caesar Cipher"
 authors = ["JingchaoPeng <jingchao.p@columbia.edu>"]
 license = "MIT"
+documentation = 'https://cipher2_jp4100.readthedocs.io'
+homepage = "https://github.com/QMSS-G5072-2020/cipher_peng_jingchao2"
+repository = "https://github.com/QMSS-G5072-2020/cipher_peng_jingchao2"
 
 [tool.poetry.dependencies]
 python = "^3.8"
